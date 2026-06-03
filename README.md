@@ -1,4 +1,4 @@
-# data-analytics
+# Data-analytics
 # Data Analytics Internship Project
 
 ## Overview
